@@ -1,0 +1,14 @@
+{
+	"name": "@aqo/websocket-protocol",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "./src/websocket-protocol.js",
+	"files": [
+		"/src",
+		"/license"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aqocyrale/nodejs-websocket-protocol.git"
+	}
+}
